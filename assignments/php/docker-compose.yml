@@ -1,0 +1,13 @@
+# php:7 이미지 pull받아 해당 컨테이너를 이용해, 로컬의 특정 php파일 실행시키기
+# docker cli
+# docker run -v /Users/yeomjaeseon/docker-repo/hello.php:/hello.php php:7 php /hello.php
+
+# docker compose
+version: "1"
+
+services:
+  php:
+    image: php:7
+    volumes:
+      - ./hello.php:/hello.php
+    command: php /hello.php

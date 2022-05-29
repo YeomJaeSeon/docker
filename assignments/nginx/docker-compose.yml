@@ -1,0 +1,14 @@
+# nginx 최신 버전 이미지 pull받아, 컨테이너 실행
+
+# 1. docker cli
+# docker run -p 50000:80 -v /Users/yeomjaeseon/html/index.html:/user/share/nginx/html/index.html nginx:latest
+
+# 2. docker compose
+version: "1"
+services:
+  server:
+    image: nginx:latest
+    ports:
+      - "50000:80"
+    volumes:
+      - /Users/yeomjaeseon/html/index.html:/user/share/nginx/html/index.html
