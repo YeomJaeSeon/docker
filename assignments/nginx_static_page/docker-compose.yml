@@ -1,0 +1,6 @@
+version: '1'
+services:
+  server:
+    image: yeom/nginx-static
+    ports:
+      - "8080:80"

@@ -1,0 +1,6 @@
+version: "1"
+services:
+  server:
+    image: yeom/hellnode3
+    ports:
+      - "60000:8080"
