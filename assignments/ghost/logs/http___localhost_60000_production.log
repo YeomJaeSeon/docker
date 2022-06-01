@@ -1,0 +1,79 @@
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Ghost is running in production...","time":"2022-06-01T04:20:33.884Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Your site is now available on http://localhost:60000/","time":"2022-06-01T04:20:33.885Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Ctrl+C to shut down","time":"2022-06-01T04:20:33.885Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Ghost server started in 0.276s","time":"2022-06-01T04:20:33.887Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":40,"msg":"Database state requires initialisation.","time":"2022-06-01T04:20:34.053Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: newsletters","time":"2022-06-01T04:20:34.306Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: posts","time":"2022-06-01T04:20:34.399Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: posts_meta","time":"2022-06-01T04:20:34.451Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: users","time":"2022-06-01T04:20:34.505Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: oauth","time":"2022-06-01T04:20:34.597Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: posts_authors","time":"2022-06-01T04:20:34.628Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: roles","time":"2022-06-01T04:20:34.662Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: roles_users","time":"2022-06-01T04:20:34.724Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: permissions","time":"2022-06-01T04:20:34.758Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: permissions_users","time":"2022-06-01T04:20:34.820Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: permissions_roles","time":"2022-06-01T04:20:34.865Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: settings","time":"2022-06-01T04:20:34.901Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: tags","time":"2022-06-01T04:20:34.959Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: posts_tags","time":"2022-06-01T04:20:35.013Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: invites","time":"2022-06-01T04:20:35.044Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: brute","time":"2022-06-01T04:20:35.125Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: sessions","time":"2022-06-01T04:20:35.157Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: integrations","time":"2022-06-01T04:20:35.215Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: webhooks","time":"2022-06-01T04:20:35.283Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: api_keys","time":"2022-06-01T04:20:35.318Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: mobiledoc_revisions","time":"2022-06-01T04:20:35.372Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members","time":"2022-06-01T04:20:35.457Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: products","time":"2022-06-01T04:20:35.566Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: offers","time":"2022-06-01T04:20:35.635Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: benefits","time":"2022-06-01T04:20:35.742Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: products_benefits","time":"2022-06-01T04:20:35.794Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_products","time":"2022-06-01T04:20:35.825Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: posts_products","time":"2022-06-01T04:20:35.864Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_cancel_events","time":"2022-06-01T04:20:35.899Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_payment_events","time":"2022-06-01T04:20:35.937Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_login_events","time":"2022-06-01T04:20:35.975Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_email_change_events","time":"2022-06-01T04:20:36.015Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_status_events","time":"2022-06-01T04:20:36.047Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_product_events","time":"2022-06-01T04:20:36.080Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_paid_subscription_events","time":"2022-06-01T04:20:36.111Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: labels","time":"2022-06-01T04:20:36.143Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_labels","time":"2022-06-01T04:20:36.231Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_stripe_customers","time":"2022-06-01T04:20:36.260Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_stripe_customers_subscriptions","time":"2022-06-01T04:20:36.326Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: offer_redemptions","time":"2022-06-01T04:20:36.450Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_subscribe_events","time":"2022-06-01T04:20:36.489Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: stripe_products","time":"2022-06-01T04:20:36.532Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: stripe_prices","time":"2022-06-01T04:20:36.597Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: actions","time":"2022-06-01T04:20:36.653Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: emails","time":"2022-06-01T04:20:36.681Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: email_batches","time":"2022-06-01T04:20:36.764Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: email_recipients","time":"2022-06-01T04:20:36.797Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: tokens","time":"2022-06-01T04:20:36.953Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: snippets","time":"2022-06-01T04:20:37.017Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: temp_member_analytic_events","time":"2022-06-01T04:20:37.079Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: custom_theme_settings","time":"2022-06-01T04:20:37.115Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Creating table: members_newsletters","time":"2022-06-01T04:20:37.150Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Model: Product","time":"2022-06-01T04:20:37.230Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Model: Newsletter","time":"2022-06-01T04:20:37.267Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Model: Tag","time":"2022-06-01T04:20:37.292Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Model: Role","time":"2022-06-01T04:20:37.310Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Model: Permission","time":"2022-06-01T04:20:37.340Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Model: User","time":"2022-06-01T04:20:37.526Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Model: Post","time":"2022-06-01T04:20:37.798Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Model: Integration","time":"2022-06-01T04:20:37.987Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Relation: Role to Permission","time":"2022-06-01T04:20:38.031Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Relation: Post to Tag","time":"2022-06-01T04:20:38.177Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Relation: User to Role","time":"2022-06-01T04:20:38.195Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Database is in a ready state.","time":"2022-06-01T04:20:38.590Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Ghost database ready in 4.98s","time":"2022-06-01T04:20:38.591Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Stripe not configured - skipping migrations","time":"2022-06-01T04:20:40.173Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Ghost URL Service Ready in 6.567s","time":"2022-06-01T04:20:40.177Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Ghost booted in 6.635s","time":"2022-06-01T04:20:40.246Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Adding offloaded job to the queue","time":"2022-06-01T04:20:40.258Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":30,"msg":"Scheduling job update-check at 31 27 2 * * *. Next run on: Thu Jun 02 2022 02:27:31 GMT+0000 (Coordinated Universal Time)","time":"2022-06-01T04:20:40.271Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":40,"msg":"Ghost is shutting down","time":"2022-06-01T04:20:45.739Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":40,"msg":"Ghost has shut down","time":"2022-06-01T04:20:45.740Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":40,"msg":"Your site is now offline","time":"2022-06-01T04:20:45.740Z","v":0}
+{"name":"Log","hostname":"940bcc591a14","pid":1,"level":40,"msg":"Ghost was running for a few seconds","time":"2022-06-01T04:20:45.741Z","v":0}
